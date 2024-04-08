@@ -2,12 +2,14 @@
 
 - [@its_gvrv](https://www.instagram.com/its_gvrv)
 
+
 ## Screenshots
 ![image](https://github.com/gvrv03/CODSOFT-Intership/assets/129073397/4f76c41b-1d27-46c9-949b-fcb4dfc0a238)
 
 
 
-# Direct Second Year Engineering Admission Consultancy Landing Page
+# Task 1
+## Direct Second Year Engineering Admission Consultancy Landing Page
 Get help from our Direct Second Year Admission Consultancy to secure admission to second year engineering courses in Maharashtra
 
 
@@ -18,9 +20,9 @@ git clone https://github.com/gvrv03/CODSOFT-Intership.git/task1
 npm install 
 npm run dev
 ```
-    
-# Personal Portfolio Landing Page
 
+  # Task 2  
+## Personal Portfolio Landing Page
 ## Screenshots
 ![Portfolio](https://github.com/gvrv03/CODSOFT-Intership/assets/129073397/c5551242-5bfc-4ebc-ae34-f5a744b8aaeb)
 
@@ -40,15 +42,16 @@ Dive into my portfolio featuring diverse projects, showcasing my ability to crea
 I've gained valuable experience through internships, including Salesforce CRM and MERN Stack development at EBO solutions. Each opportunity has contributed to my growth as a developer.
 
 ## Installation
+
 ```bash
 git clone https://github.com/gvrv03/CODSOFT-Intership.git/task2
 cd task2
 npm install 
 npm run dev
+```
 
-
-
-# Calculator App using Next.js
+# Task 3
+## Calculator App using Next.js
 
 This is a simple calculator web application built using Next.js, allowing users to perform basic arithmetic operations.
 
@@ -82,8 +85,10 @@ Include screenshots or GIFs of your calculator app in action:
 Make sure you have Node.js and npm installed on your machine.
 
 ## Installation
+
 ```bash
 git clone https://github.com/gvrv03/CODSOFT-Intership.git/task3
 cd task3
 npm install 
 npm run dev
+```
